@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Galano-Grotesque-Bold.ttf",
+      "sha1": "3b8fa5f844ce3f572ef8dae52a27f3bd7a3540a3"
+    },
+    {
+      "path": "assets/fonts/Galano-Grotesque-Light.ttf",
+      "sha1": "63566a2d9b609ec65fb0807f3000420ded865e75"
+    },
+    {
+      "path": "assets/fonts/Galano-Grotesque-Medium.ttf",
+      "sha1": "9b2aaa2ee1ce65c95c73b8fb3abec8788b50bb13"
+    },
+    {
+      "path": "assets/fonts/Galano-Grotesque-Semi-Bold.ttf",
+      "sha1": "412f5d27caa842ebbf3b797bdf49ff508c9fb940"
+    },
+    {
+      "path": "assets/fonts/Galano-Grotesque.ttf",
+      "sha1": "f2aa4c61351a8141c7aa3267487cb2c8ced02e2b"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "pruebaObtenMas",
+  "displayName": "pruebaObtenMas",
+  "plugins": [
+    [
+      "react-native-permissions",
+      {
+        "iosPermissions": [
+          "AppTrackingTransparency",
+          "Bluetooth",
+          "CalendarsWriteOnly",
+          "Notifications",
+          "SpeechRecognition",
+          "LocationAccuracy",
+          "LocationAlways",
+          "LocationWhenInUse"
+        ]
+      }
+    ]
+  ]
+}
